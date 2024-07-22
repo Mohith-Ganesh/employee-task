@@ -1,0 +1,71 @@
+.admin-container{
+    background-color: azure;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.admin-heading{
+    margin-top: 0px;
+    color:goldenrod;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.admin-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: beige;
+    border-radius: 10px;
+    width: 600px;
+    height: 300px;
+}
+
+.admin-task-title{
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    border-width: 0px;
+    font-size: 20px;
+    margin: 10px;
+    margin-top: 30px;
+}
+
+.admin-task-desc{
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    border-width: 0px;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.admin-task-email{
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    border-width: 0px;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.admin-btn{
+    height: 40px;
+    width: 140px;
+    padding: 5px;
+    background-color: lightsteelblue;
+    border-width: 0px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    margin: 10px;
+}
+
+.employee-task-head{
+    color: indigo;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
